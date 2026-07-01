@@ -7,8 +7,8 @@ app = FastAPI(title="CarDekho AI Advisor API", version="1.0.0")
 # Configure CORS for Next.js frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "https://car-dekho-assessment-4ftx.vercel.app", "https://car-dekho-assessment-ten.vercel.app"],
-    allow_credentials=True,
+    allow_origins=["*"],
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
