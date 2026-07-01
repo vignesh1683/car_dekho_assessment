@@ -1,0 +1,6235 @@
+[
+  {
+    "id": "maruti-suzuki-swift-2024",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 8.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 22.3,
+    "engine_cc": 1197,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1197cc Petrol Engine",
+        "Displacement (cc)": "1197",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "22.3 kmpl",
+        "Fuel Tank Capacity": "35 Litres",
+        "Top Speed": "169 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3922 mm",
+        "Width": "1762 mm",
+        "Height": "1614 mm",
+        "Boot Space": "366 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "202 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "maruti-suzuki-baleno-2024",
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 9.5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 22.3,
+    "engine_cc": 1197,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1537984822441-cff330075342?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1197cc Petrol Engine",
+        "Displacement (cc)": "1197",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "22.3 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "163 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4309 mm",
+        "Width": "1788 mm",
+        "Height": "1727 mm",
+        "Boot Space": "355 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "168 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "maruti-suzuki-brezza-2024",
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 11.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.8,
+    "engine_cc": 1462,
+    "safety_rating": 2,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1462cc Petrol Engine",
+        "Displacement (cc)": "1462",
+        "Max Power": "116 bhp @ 6000 rpm",
+        "Max Torque": "175 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "19.8 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "180 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3858 mm",
+        "Width": "1771 mm",
+        "Height": "1739 mm",
+        "Boot Space": "355 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "209 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "maruti-suzuki-fronx-2024",
+    "make": "Maruti Suzuki",
+    "model": "Fronx",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 10.5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 21.0,
+    "engine_cc": 1197,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1503376760367-75ea4f89b91e?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1197cc Petrol Engine",
+        "Displacement (cc)": "1197",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "21.0 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "170 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4101 mm",
+        "Width": "1849 mm",
+        "Height": "1726 mm",
+        "Boot Space": "256 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "197 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "maruti-suzuki-grand-vitara-2024",
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 15.5,
+    "fuel_type": "Hybrid",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 21.1,
+    "engine_cc": 1490,
+    "safety_rating": 2,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1568844293986-8d0400ba4715?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1490cc Hybrid Engine",
+        "Displacement (cc)": "1490",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "178 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Hybrid",
+        "Mileage (ARAI)": "21.1 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "140 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3906 mm",
+        "Width": "1771 mm",
+        "Height": "1665 mm",
+        "Boot Space": "304 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "185 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "maruti-suzuki-ertiga-2024",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 11.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "MUV",
+    "seating_capacity": 7,
+    "mileage_kmpl": 20.5,
+    "engine_cc": 1462,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1462cc Petrol Engine",
+        "Displacement (cc)": "1462",
+        "Max Power": "116 bhp @ 6000 rpm",
+        "Max Torque": "175 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "20.5 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "166 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3939 mm",
+        "Width": "1771 mm",
+        "Height": "1561 mm",
+        "Boot Space": "323 Litres",
+        "Seating Capacity": "7",
+        "Ground Clearance": "210 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "maruti-suzuki-alto-k10-2024",
+    "make": "Maruti Suzuki",
+    "model": "Alto K10",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 5.0,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 24.3,
+    "engine_cc": 998,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "998cc Petrol Engine",
+        "Displacement (cc)": "998",
+        "Max Power": "79 bhp @ 6000 rpm",
+        "Max Torque": "119 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "24.3 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "146 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3956 mm",
+        "Width": "1767 mm",
+        "Height": "1564 mm",
+        "Boot Space": "356 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "206 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "No"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "maruti-suzuki-wagon-r-2024",
+    "make": "Maruti Suzuki",
+    "model": "Wagon R",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 6.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 24.3,
+    "engine_cc": 998,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "998cc Petrol Engine",
+        "Displacement (cc)": "998",
+        "Max Power": "79 bhp @ 6000 rpm",
+        "Max Torque": "119 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "24.3 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "162 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3973 mm",
+        "Width": "1679 mm",
+        "Height": "1598 mm",
+        "Boot Space": "450 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "167 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "No"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "maruti-suzuki-dzire-2024",
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 8.0,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "mileage_kmpl": 22.4,
+    "engine_cc": 1197,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1605515298946-d062f2e9da53?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1197cc Petrol Engine",
+        "Displacement (cc)": "1197",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "22.4 kmpl",
+        "Fuel Tank Capacity": "35 Litres",
+        "Top Speed": "150 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4288 mm",
+        "Width": "1807 mm",
+        "Height": "1505 mm",
+        "Boot Space": "414 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "178 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "No"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "maruti-suzuki-jimny-2024",
+    "make": "Maruti Suzuki",
+    "model": "Jimny",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 14.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 16.9,
+    "engine_cc": 1462,
+    "safety_rating": 2,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1568844293986-8d0400ba4715?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1462cc Petrol Engine",
+        "Displacement (cc)": "1462",
+        "Max Power": "116 bhp @ 6000 rpm",
+        "Max Torque": "175 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "16.9 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "176 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4109 mm",
+        "Width": "1748 mm",
+        "Height": "1592 mm",
+        "Boot Space": "292 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "185 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "hyundai-creta-2024",
+    "make": "Hyundai",
+    "model": "Creta",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 17.5,
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.1,
+    "engine_cc": 1493,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1493cc Diesel Engine",
+        "Displacement (cc)": "1493",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "179 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "19.1 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "156 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3838 mm",
+        "Width": "1767 mm",
+        "Height": "1530 mm",
+        "Boot Space": "277 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "185 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "hyundai-venue-2024",
+    "make": "Hyundai",
+    "model": "Venue",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 12.0,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 17.5,
+    "engine_cc": 998,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1568844293986-8d0400ba4715?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "998cc Petrol Engine",
+        "Displacement (cc)": "998",
+        "Max Power": "79 bhp @ 6000 rpm",
+        "Max Torque": "119 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "17.5 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "142 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4179 mm",
+        "Width": "1833 mm",
+        "Height": "1558 mm",
+        "Boot Space": "434 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "192 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "hyundai-i20-2024",
+    "make": "Hyundai",
+    "model": "i20",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 9.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.0,
+    "engine_cc": 1197,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1537984822441-cff330075342?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1197cc Petrol Engine",
+        "Displacement (cc)": "1197",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "20.0 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "167 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4439 mm",
+        "Width": "1652 mm",
+        "Height": "1729 mm",
+        "Boot Space": "370 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "181 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "hyundai-grand-i10-nios-2024",
+    "make": "Hyundai",
+    "model": "Grand i10 Nios",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 7.0,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.7,
+    "engine_cc": 1197,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1197cc Petrol Engine",
+        "Displacement (cc)": "1197",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "20.7 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "179 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4382 mm",
+        "Width": "1707 mm",
+        "Height": "1590 mm",
+        "Boot Space": "415 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "182 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "No"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "hyundai-verna-2024",
+    "make": "Hyundai",
+    "model": "Verna",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 15.0,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.6,
+    "engine_cc": 1497,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1497cc Petrol Engine",
+        "Displacement (cc)": "1497",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "179 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "18.6 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "176 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4425 mm",
+        "Width": "1795 mm",
+        "Height": "1537 mm",
+        "Boot Space": "304 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "200 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "hyundai-tucson-2024",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 30.0,
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.0,
+    "engine_cc": 1997,
+    "safety_rating": 2,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1503376760367-75ea4f89b91e?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1997cc Diesel Engine",
+        "Displacement (cc)": "1997",
+        "Max Power": "159 bhp @ 6000 rpm",
+        "Max Torque": "239 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "18.0 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "165 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4117 mm",
+        "Width": "1727 mm",
+        "Height": "1516 mm",
+        "Boot Space": "339 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "198 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "hyundai-exter-2024",
+    "make": "Hyundai",
+    "model": "Exter",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 8.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.4,
+    "engine_cc": 1197,
+    "safety_rating": 2,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1568844293986-8d0400ba4715?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1197cc Petrol Engine",
+        "Displacement (cc)": "1197",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "19.4 kmpl",
+        "Fuel Tank Capacity": "35 Litres",
+        "Top Speed": "179 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4055 mm",
+        "Width": "1773 mm",
+        "Height": "1622 mm",
+        "Boot Space": "363 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "171 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "hyundai-aura-2024",
+    "make": "Hyundai",
+    "model": "Aura",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 8.0,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.5,
+    "engine_cc": 1197,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1197cc Petrol Engine",
+        "Displacement (cc)": "1197",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "20.5 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "178 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4305 mm",
+        "Width": "1735 mm",
+        "Height": "1619 mm",
+        "Boot Space": "403 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "205 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "No"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "tata-nexon-2024",
+    "make": "Tata",
+    "model": "Nexon",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 12.5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 17.0,
+    "engine_cc": 1199,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1503376760367-75ea4f89b91e?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1199cc Petrol Engine",
+        "Displacement (cc)": "1199",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "17.0 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "170 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4037 mm",
+        "Width": "1703 mm",
+        "Height": "1566 mm",
+        "Boot Space": "294 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "205 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "tata-punch-2024",
+    "make": "Tata",
+    "model": "Punch",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 8.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.0,
+    "engine_cc": 1199,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1199cc Petrol Engine",
+        "Displacement (cc)": "1199",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "20.0 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "157 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4103 mm",
+        "Width": "1652 mm",
+        "Height": "1648 mm",
+        "Boot Space": "279 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "166 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "tata-harrier-2024",
+    "make": "Tata",
+    "model": "Harrier",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 20.0,
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 16.8,
+    "engine_cc": 1956,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1503376760367-75ea4f89b91e?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1956cc Diesel Engine",
+        "Displacement (cc)": "1956",
+        "Max Power": "156 bhp @ 6000 rpm",
+        "Max Torque": "234 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "16.8 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "149 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4454 mm",
+        "Width": "1819 mm",
+        "Height": "1671 mm",
+        "Boot Space": "315 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "191 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "tata-safari-2024",
+    "make": "Tata",
+    "model": "Safari",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 22.0,
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 7,
+    "mileage_kmpl": 16.3,
+    "engine_cc": 1956,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1956cc Diesel Engine",
+        "Displacement (cc)": "1956",
+        "Max Power": "156 bhp @ 6000 rpm",
+        "Max Torque": "234 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "16.3 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "140 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4254 mm",
+        "Width": "1803 mm",
+        "Height": "1740 mm",
+        "Boot Space": "304 Litres",
+        "Seating Capacity": "7",
+        "Ground Clearance": "191 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "tata-tiago-2024",
+    "make": "Tata",
+    "model": "Tiago",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 6.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.0,
+    "engine_cc": 1199,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1537984822441-cff330075342?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1199cc Petrol Engine",
+        "Displacement (cc)": "1199",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "20.0 kmpl",
+        "Fuel Tank Capacity": "35 Litres",
+        "Top Speed": "171 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4300 mm",
+        "Width": "1727 mm",
+        "Height": "1583 mm",
+        "Boot Space": "295 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "170 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "No"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "tata-altroz-2024",
+    "make": "Tata",
+    "model": "Altroz",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 9.0,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.3,
+    "engine_cc": 1199,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1199cc Petrol Engine",
+        "Displacement (cc)": "1199",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "19.3 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "162 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3874 mm",
+        "Width": "1717 mm",
+        "Height": "1537 mm",
+        "Boot Space": "388 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "170 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "tata-nexon-ev-2024",
+    "make": "Tata",
+    "model": "Nexon EV",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 16.5,
+    "fuel_type": "Electric",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 0.0,
+    "engine_cc": 0,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "Electric Motor",
+        "Displacement (cc)": "N/A",
+        "Max Power": "120 bhp",
+        "Max Torque": "250 Nm",
+        "No. of Cylinders": "0",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Electric",
+        "Mileage (ARAI)": "0",
+        "Fuel Tank Capacity": "N/A",
+        "Top Speed": "177 kmph",
+        "Emission Norm Compliance": "ZEV"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3854 mm",
+        "Width": "1745 mm",
+        "Height": "1583 mm",
+        "Boot Space": "305 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "173 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "tata-punch-ev-2024",
+    "make": "Tata",
+    "model": "Punch EV",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 14.0,
+    "fuel_type": "Electric",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 0.0,
+    "engine_cc": 0,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "Electric Motor",
+        "Displacement (cc)": "N/A",
+        "Max Power": "120 bhp",
+        "Max Torque": "250 Nm",
+        "No. of Cylinders": "0",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Electric",
+        "Mileage (ARAI)": "0",
+        "Fuel Tank Capacity": "N/A",
+        "Top Speed": "165 kmph",
+        "Emission Norm Compliance": "ZEV"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3916 mm",
+        "Width": "1823 mm",
+        "Height": "1711 mm",
+        "Boot Space": "301 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "203 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "mahindra-thar-2024",
+    "make": "Mahindra",
+    "model": "Thar",
+    "variant": "ZX Diesel",
+    "year": 2024,
+    "price_lakh": 16.5,
+    "fuel_type": "Diesel",
+    "transmission": "Manual",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 15.2,
+    "engine_cc": 2184,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1503376760367-75ea4f89b91e?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "2184cc Diesel Engine",
+        "Displacement (cc)": "2184",
+        "Max Power": "174 bhp @ 6000 rpm",
+        "Max Torque": "262 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "15.2 kmpl",
+        "Fuel Tank Capacity": "35 Litres",
+        "Top Speed": "162 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4157 mm",
+        "Width": "1738 mm",
+        "Height": "1523 mm",
+        "Boot Space": "318 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "188 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "mahindra-scorpio-n-2024",
+    "make": "Mahindra",
+    "model": "Scorpio-N",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 19.5,
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 16.0,
+    "engine_cc": 2198,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "2198cc Diesel Engine",
+        "Displacement (cc)": "2198",
+        "Max Power": "175 bhp @ 6000 rpm",
+        "Max Torque": "263 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "16.0 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "141 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4177 mm",
+        "Width": "1696 mm",
+        "Height": "1584 mm",
+        "Boot Space": "254 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "190 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "mahindra-xuv700-2024",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 22.0,
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 7,
+    "mileage_kmpl": 16.0,
+    "engine_cc": 2198,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1568844293986-8d0400ba4715?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "2198cc Diesel Engine",
+        "Displacement (cc)": "2198",
+        "Max Power": "175 bhp @ 6000 rpm",
+        "Max Torque": "263 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "16.0 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "156 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4162 mm",
+        "Width": "1808 mm",
+        "Height": "1658 mm",
+        "Boot Space": "276 Litres",
+        "Seating Capacity": "7",
+        "Ground Clearance": "169 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "mahindra-xuv300-2024",
+    "make": "Mahindra",
+    "model": "XUV300",
+    "variant": "ZX Diesel",
+    "year": 2024,
+    "price_lakh": 12.0,
+    "fuel_type": "Diesel",
+    "transmission": "Manual",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 20.1,
+    "engine_cc": 1497,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1497cc Diesel Engine",
+        "Displacement (cc)": "1497",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "179 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "20.1 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "161 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4271 mm",
+        "Width": "1838 mm",
+        "Height": "1736 mm",
+        "Boot Space": "443 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "195 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "mahindra-bolero-2024",
+    "make": "Mahindra",
+    "model": "Bolero",
+    "variant": "ZX Diesel",
+    "year": 2024,
+    "price_lakh": 10.5,
+    "fuel_type": "Diesel",
+    "transmission": "Manual",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 16.0,
+    "engine_cc": 1493,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1493cc Diesel Engine",
+        "Displacement (cc)": "1493",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "179 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "16.0 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "170 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4026 mm",
+        "Width": "1758 mm",
+        "Height": "1580 mm",
+        "Boot Space": "426 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "168 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "kia-seltos-2024",
+    "make": "Kia",
+    "model": "Seltos",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 16.5,
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 19.1,
+    "engine_cc": 1493,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1503376760367-75ea4f89b91e?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1493cc Diesel Engine",
+        "Displacement (cc)": "1493",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "179 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "19.1 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "174 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3828 mm",
+        "Width": "1830 mm",
+        "Height": "1556 mm",
+        "Boot Space": "282 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "179 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "kia-sonet-2024",
+    "make": "Kia",
+    "model": "Sonet",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 12.5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.4,
+    "engine_cc": 998,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1568844293986-8d0400ba4715?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "998cc Petrol Engine",
+        "Displacement (cc)": "998",
+        "Max Power": "79 bhp @ 6000 rpm",
+        "Max Torque": "119 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "18.4 kmpl",
+        "Fuel Tank Capacity": "35 Litres",
+        "Top Speed": "158 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4227 mm",
+        "Width": "1759 mm",
+        "Height": "1515 mm",
+        "Boot Space": "447 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "185 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "kia-carens-2024",
+    "make": "Kia",
+    "model": "Carens",
+    "variant": "ZX Diesel",
+    "year": 2024,
+    "price_lakh": 15.0,
+    "fuel_type": "Diesel",
+    "transmission": "Manual",
+    "body_type": "MUV",
+    "seating_capacity": 7,
+    "mileage_kmpl": 21.0,
+    "engine_cc": 1493,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1493cc Diesel Engine",
+        "Displacement (cc)": "1493",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "179 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "21.0 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "140 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4266 mm",
+        "Width": "1674 mm",
+        "Height": "1684 mm",
+        "Boot Space": "297 Litres",
+        "Seating Capacity": "7",
+        "Ground Clearance": "206 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "kia-ev6-2024",
+    "make": "Kia",
+    "model": "EV6",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 65.0,
+    "fuel_type": "Electric",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 0.0,
+    "engine_cc": 0,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "Electric Motor",
+        "Displacement (cc)": "N/A",
+        "Max Power": "120 bhp",
+        "Max Torque": "250 Nm",
+        "No. of Cylinders": "0",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Electric",
+        "Mileage (ARAI)": "0",
+        "Fuel Tank Capacity": "N/A",
+        "Top Speed": "140 kmph",
+        "Emission Norm Compliance": "ZEV"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4244 mm",
+        "Width": "1798 mm",
+        "Height": "1606 mm",
+        "Boot Space": "389 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "204 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "toyota-fortuner-2024",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 45.0,
+    "fuel_type": "Diesel",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 7,
+    "mileage_kmpl": 10.0,
+    "engine_cc": 2755,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "2755cc Diesel Engine",
+        "Displacement (cc)": "2755",
+        "Max Power": "220 bhp @ 6000 rpm",
+        "Max Torque": "330 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "10.0 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "162 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3821 mm",
+        "Width": "1797 mm",
+        "Height": "1601 mm",
+        "Boot Space": "280 Litres",
+        "Seating Capacity": "7",
+        "Ground Clearance": "187 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "toyota-innova-crysta-2024",
+    "make": "Toyota",
+    "model": "Innova Crysta",
+    "variant": "ZX Diesel",
+    "year": 2024,
+    "price_lakh": 23.0,
+    "fuel_type": "Diesel",
+    "transmission": "Manual",
+    "body_type": "MUV",
+    "seating_capacity": 7,
+    "mileage_kmpl": 13.0,
+    "engine_cc": 2393,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "2393cc Diesel Engine",
+        "Displacement (cc)": "2393",
+        "Max Power": "191 bhp @ 6000 rpm",
+        "Max Torque": "287 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Diesel",
+        "Mileage (ARAI)": "13.0 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "145 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3973 mm",
+        "Width": "1688 mm",
+        "Height": "1527 mm",
+        "Boot Space": "252 Litres",
+        "Seating Capacity": "7",
+        "Ground Clearance": "193 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "toyota-innova-hycross-2024",
+    "make": "Toyota",
+    "model": "Innova Hycross",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 28.0,
+    "fuel_type": "Hybrid",
+    "transmission": "Automatic",
+    "body_type": "MUV",
+    "seating_capacity": 7,
+    "mileage_kmpl": 23.2,
+    "engine_cc": 1987,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1987cc Hybrid Engine",
+        "Displacement (cc)": "1987",
+        "Max Power": "158 bhp @ 6000 rpm",
+        "Max Torque": "238 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Hybrid",
+        "Mileage (ARAI)": "23.2 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "159 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4302 mm",
+        "Width": "1849 mm",
+        "Height": "1623 mm",
+        "Boot Space": "329 Litres",
+        "Seating Capacity": "7",
+        "Ground Clearance": "192 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "toyota-glanza-2024",
+    "make": "Toyota",
+    "model": "Glanza",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 9.0,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 22.3,
+    "engine_cc": 1197,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1197cc Petrol Engine",
+        "Displacement (cc)": "1197",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "22.3 kmpl",
+        "Fuel Tank Capacity": "35 Litres",
+        "Top Speed": "154 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3908 mm",
+        "Width": "1700 mm",
+        "Height": "1679 mm",
+        "Boot Space": "298 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "194 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "toyota-urban-cruiser-hyryder-2024",
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 17.0,
+    "fuel_type": "Hybrid",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 27.9,
+    "engine_cc": 1490,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1503376760367-75ea4f89b91e?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1490cc Hybrid Engine",
+        "Displacement (cc)": "1490",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "178 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Hybrid",
+        "Mileage (ARAI)": "27.9 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "147 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4112 mm",
+        "Width": "1837 mm",
+        "Height": "1642 mm",
+        "Boot Space": "307 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "177 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "honda-city-2024",
+    "make": "Honda",
+    "model": "City",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 15.5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.4,
+    "engine_cc": 1498,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1605515298946-d062f2e9da53?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1498cc Petrol Engine",
+        "Displacement (cc)": "1498",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "179 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "18.4 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "172 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4180 mm",
+        "Width": "1652 mm",
+        "Height": "1648 mm",
+        "Boot Space": "376 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "183 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "honda-amaze-2024",
+    "make": "Honda",
+    "model": "Amaze",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 9.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.6,
+    "engine_cc": 1199,
+    "safety_rating": 3,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1199cc Petrol Engine",
+        "Displacement (cc)": "1199",
+        "Max Power": "95 bhp @ 6000 rpm",
+        "Max Torque": "143 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "18.6 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "175 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3847 mm",
+        "Width": "1789 mm",
+        "Height": "1738 mm",
+        "Boot Space": "354 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "166 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  },
+  {
+    "id": "honda-elevate-2024",
+    "make": "Honda",
+    "model": "Elevate",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 14.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 15.3,
+    "engine_cc": 1498,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1568844293986-8d0400ba4715?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1498cc Petrol Engine",
+        "Displacement (cc)": "1498",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "179 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "15.3 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "151 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4461 mm",
+        "Width": "1751 mm",
+        "Height": "1703 mm",
+        "Boot Space": "369 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "186 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "volkswagen-virtus-2024",
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 16.0,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.1,
+    "engine_cc": 999,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "999cc Petrol Engine",
+        "Displacement (cc)": "999",
+        "Max Power": "79 bhp @ 6000 rpm",
+        "Max Torque": "119 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "18.1 kmpl",
+        "Fuel Tank Capacity": "50 Litres",
+        "Top Speed": "174 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4052 mm",
+        "Width": "1684 mm",
+        "Height": "1620 mm",
+        "Boot Space": "390 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "203 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "volkswagen-taigun-2024",
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 16.5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.4,
+    "engine_cc": 999,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "999cc Petrol Engine",
+        "Displacement (cc)": "999",
+        "Max Power": "79 bhp @ 6000 rpm",
+        "Max Torque": "119 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "18.4 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "154 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "3899 mm",
+        "Width": "1765 mm",
+        "Height": "1745 mm",
+        "Boot Space": "376 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "188 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "skoda-slavia-2024",
+    "make": "Skoda",
+    "model": "Slavia",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 16.0,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "Sedan",
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.7,
+    "engine_cc": 999,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1605515298946-d062f2e9da53?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "999cc Petrol Engine",
+        "Displacement (cc)": "999",
+        "Max Power": "79 bhp @ 6000 rpm",
+        "Max Torque": "119 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "18.7 kmpl",
+        "Fuel Tank Capacity": "45 Litres",
+        "Top Speed": "177 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4226 mm",
+        "Width": "1652 mm",
+        "Height": "1581 mm",
+        "Boot Space": "340 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "197 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "skoda-kushaq-2024",
+    "make": "Skoda",
+    "model": "Kushaq",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 16.5,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 18.8,
+    "engine_cc": 999,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "999cc Petrol Engine",
+        "Displacement (cc)": "999",
+        "Max Power": "79 bhp @ 6000 rpm",
+        "Max Torque": "119 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "18.8 kmpl",
+        "Fuel Tank Capacity": "35 Litres",
+        "Top Speed": "174 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4028 mm",
+        "Width": "1801 mm",
+        "Height": "1601 mm",
+        "Boot Space": "357 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "172 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "mg-hector-2024",
+    "make": "MG",
+    "model": "Hector",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 19.0,
+    "fuel_type": "Petrol",
+    "transmission": "Automatic",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 15.5,
+    "engine_cc": 1451,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1451cc Petrol Engine",
+        "Displacement (cc)": "1451",
+        "Max Power": "116 bhp @ 6000 rpm",
+        "Max Torque": "174 Nm @ 4000 rpm",
+        "No. of Cylinders": "4",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "15.5 kmpl",
+        "Fuel Tank Capacity": "40 Litres",
+        "Top Speed": "160 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Disc"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4242 mm",
+        "Width": "1729 mm",
+        "Height": "1681 mm",
+        "Boot Space": "385 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "205 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "Yes",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "Yes",
+        "Automatic Emergency Braking": "Yes",
+        "Lane Departure Warning": "Yes",
+        "Lane Keep Assist": "Yes",
+        "Adaptive Cruise Control": "Yes"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "Yes",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "mg-astor-2024",
+    "make": "MG",
+    "model": "Astor",
+    "variant": "VX",
+    "year": 2024,
+    "price_lakh": 14.5,
+    "fuel_type": "Petrol",
+    "transmission": "Manual",
+    "body_type": "SUV",
+    "seating_capacity": 5,
+    "mileage_kmpl": 15.4,
+    "engine_cc": 1498,
+    "safety_rating": 4,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "Family",
+      "Highway",
+      "Adventure"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "1498cc Petrol Engine",
+        "Displacement (cc)": "1498",
+        "Max Power": "119 bhp @ 6000 rpm",
+        "Max Torque": "179 Nm @ 4000 rpm",
+        "No. of Cylinders": "3",
+        "Transmission Type": "Manual",
+        "Gear Box": "5-Speed"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Petrol",
+        "Mileage (ARAI)": "15.4 kmpl",
+        "Fuel Tank Capacity": "35 Litres",
+        "Top Speed": "140 kmph",
+        "Emission Norm Compliance": "BS VI 2.0"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4355 mm",
+        "Width": "1792 mm",
+        "Height": "1578 mm",
+        "Boot Space": "262 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "173 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Automatic Climate Control",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "Yes",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "Front",
+        "Alloy Wheels": "Yes",
+        "Sun Roof": "Yes",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "6",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "Yes"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "6"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "Yes",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "Yes",
+        "Over The Air (OTA) Updates": "Yes"
+      }
+    }
+  },
+  {
+    "id": "mg-comet-ev-2024",
+    "make": "MG",
+    "model": "Comet EV",
+    "variant": "AT Plus",
+    "year": 2024,
+    "price_lakh": 8.5,
+    "fuel_type": "Electric",
+    "transmission": "Automatic",
+    "body_type": "Hatchback",
+    "seating_capacity": 5,
+    "mileage_kmpl": 0.0,
+    "engine_cc": 0,
+    "safety_rating": 5,
+    "color_options": [
+      "White",
+      "Silver",
+      "Black"
+    ],
+    "features": [
+      "Touchscreen",
+      "Alloy Wheels",
+      "Airbags",
+      "ABS"
+    ],
+    "use_cases": [
+      "City",
+      "Family"
+    ],
+    "pros": [
+      "Good value for money",
+      "Reliable"
+    ],
+    "cons": [
+      "Basic features in lower variants"
+    ],
+    "image_url": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&q=80&w=800",
+    "detailed_specs": {
+      "Engine & Transmission": {
+        "Engine Type": "Electric Motor",
+        "Displacement (cc)": "N/A",
+        "Max Power": "120 bhp",
+        "Max Torque": "250 Nm",
+        "No. of Cylinders": "0",
+        "Transmission Type": "Automatic",
+        "Gear Box": "6-Speed AT"
+      },
+      "Fuel & Performance": {
+        "Fuel Type": "Electric",
+        "Mileage (ARAI)": "0",
+        "Fuel Tank Capacity": "N/A",
+        "Top Speed": "164 kmph",
+        "Emission Norm Compliance": "ZEV"
+      },
+      "Suspension, Steering & Brakes": {
+        "Front Suspension": "MacPherson Strut",
+        "Rear Suspension": "Torsion Beam",
+        "Steering Type": "Electric",
+        "Front Brake Type": "Disc",
+        "Rear Brake Type": "Drum"
+      },
+      "Dimensions & Capacity": {
+        "Length": "4157 mm",
+        "Width": "1677 mm",
+        "Height": "1689 mm",
+        "Boot Space": "269 Litres",
+        "Seating Capacity": "5",
+        "Ground Clearance": "177 mm"
+      },
+      "Comfort & Convenience": {
+        "Power Steering": "Yes",
+        "Power Windows": "Front & Rear",
+        "Air Conditioner": "Manual",
+        "Heater": "Yes",
+        "Adjustable Steering": "Tilt & Telescopic",
+        "Cruise Control": "No",
+        "Keyless Entry": "Yes",
+        "Engine Start/Stop Button": "Yes"
+      },
+      "Interior": {
+        "Tachometer": "Yes",
+        "Electronic Multi-Tripmeter": "Yes",
+        "Leather Seats": "No",
+        "Digital Clock": "Yes",
+        "Digital Odometer": "Yes"
+      },
+      "Exterior": {
+        "Adjustable Headlights": "Yes",
+        "Fog Lights": "No",
+        "Alloy Wheels": "No",
+        "Sun Roof": "No",
+        "LED DRLs": "Yes"
+      },
+      "Safety": {
+        "Anti-Lock Braking System": "Yes",
+        "Brake Assist": "Yes",
+        "Central Locking": "Yes",
+        "No of Airbags": "2",
+        "Day & Night Rear View Mirror": "Yes",
+        "Seat Belt Warning": "Yes",
+        "Tyre Pressure Monitor": "No"
+      },
+      "Entertainment & Communication": {
+        "Radio": "Yes",
+        "Bluetooth Connectivity": "Yes",
+        "Touch Screen": "Yes",
+        "Android Auto & Apple CarPlay": "Yes",
+        "No of Speakers": "4"
+      },
+      "ADAS Feature": {
+        "Forward Collision Warning": "No",
+        "Automatic Emergency Braking": "No",
+        "Lane Departure Warning": "No",
+        "Lane Keep Assist": "No",
+        "Adaptive Cruise Control": "No"
+      },
+      "Advance Internet Feature": {
+        "Connected Car Features": "No",
+        "Remote Engine Start/Stop": "No",
+        "Find My Car location": "No",
+        "Over The Air (OTA) Updates": "No"
+      }
+    }
+  }
+]
