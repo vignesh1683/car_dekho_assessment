@@ -15,20 +15,20 @@ export default function CompareDrawer({ cars, onClose, onRemove, userQuery }: Co
   useEffect(() => {
     if (cars.length > 0) {
       setLoading(true);
-      fetch("http://localhost:8000/api/compare", {
+      fetch("https://car-dekho-assessment-ten.vercel.app/api/compare", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ car_ids: cars.map(c => c.id), user_query: userQuery })
       })
-      .then(res => res.json())
-      .then(data => {
-        setCompareData(data);
-        setLoading(false);
-      })
-      .catch(err => {
-        console.error("Error fetching compare data", err);
-        setLoading(false);
-      });
+        .then(res => res.json())
+        .then(data => {
+          setCompareData(data);
+          setLoading(false);
+        })
+        .catch(err => {
+          console.error("Error fetching compare data", err);
+          setLoading(false);
+        });
     } else {
       setCompareData(null);
     }
@@ -59,7 +59,7 @@ export default function CompareDrawer({ cars, onClose, onRemove, userQuery }: Co
   // Helper to get best value across all cars for a specific spec row
   const getBestSpecValue = (category: string, specKey: string) => {
     if (sortedCars.length < 2) return null;
-    
+
     let isLowerBetter = false;
     const lowerKey = specKey.toLowerCase();
     if (lowerKey.includes("price") || lowerKey.includes("time") || lowerKey.includes("0-100")) {
@@ -72,7 +72,7 @@ export default function CompareDrawer({ cars, onClose, onRemove, userQuery }: Co
     }).filter(v => v !== null) as number[];
 
     if (values.length === 0) return null;
-    
+
     return isLowerBetter ? Math.min(...values) : Math.max(...values);
   };
 
@@ -82,7 +82,7 @@ export default function CompareDrawer({ cars, onClose, onRemove, userQuery }: Co
         <div className="flex justify-between items-center mb-8">
           <h2 className="text-3xl font-black text-gray-900 tracking-tight">Compare <span className="text-primary">Cars</span> ({sortedCars.length}/3)</h2>
           <button onClick={onClose} className="text-gray-400 hover:text-gray-900 hover:bg-gray-100 p-3 rounded-full transition-all">
-            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
           </button>
         </div>
 
@@ -94,7 +94,7 @@ export default function CompareDrawer({ cars, onClose, onRemove, userQuery }: Co
         ) : compareData && compareData.overall_summary && (
           <div className="mb-10 bg-orange-50/50 border-l-4 border-primary p-6 rounded-r-2xl">
             <h3 className="text-lg font-bold text-gray-900 mb-2 flex items-center gap-2">
-              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-primary"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-primary"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6" /></svg>
               AI Overall Verdict
             </h3>
             <p className="text-gray-700 leading-relaxed font-medium">{compareData.overall_summary}</p>
@@ -113,19 +113,19 @@ export default function CompareDrawer({ cars, onClose, onRemove, userQuery }: Co
                         Rank #{index + 1}
                       </div>
                     )}
-                    <button 
+                    <button
                       onClick={() => onRemove(car.id)}
                       className="absolute top-7 right-7 bg-white/80 backdrop-blur-sm text-gray-400 hover:text-red-500 p-1.5 rounded-full shadow-sm opacity-0 group-hover:opacity-100 transition-all z-10"
                     >
-                      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
                     </button>
                     <div className="rounded-2xl overflow-hidden mb-4 shadow-sm relative mt-4">
-                       <img src={car.image_url} alt={car.model} className="w-full h-40 object-cover" />
-                       <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
+                      <img src={car.image_url} alt={car.model} className="w-full h-40 object-cover" />
+                      <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div>
                     </div>
                     <div className="text-xl font-bold text-gray-900 tracking-tight">{car.make} {car.model}</div>
                     <div className="text-sm text-primary font-semibold mt-1 mb-4">{car.variant} • ₹{car.price_lakh} Lakh</div>
-                    
+
                     {compareData && compareData.individual_summaries?.[car.id] && (
                       <div className={`rounded-xl p-4 border ${index === 0 ? 'bg-green-50/50 border-green-100' : 'bg-gray-50 border-gray-100'}`}>
                         <p className="text-xs text-gray-600 font-medium leading-relaxed">
@@ -148,7 +148,7 @@ export default function CompareDrawer({ cars, onClose, onRemove, userQuery }: Co
                   </tr>
                   {Object.keys(sortedCars[0].detailed_specs![category]).map((specKey, index) => {
                     const bestValue = getBestSpecValue(category, specKey);
-                    
+
                     return (
                       <tr key={specKey} className={`hover:bg-gray-50 transition-colors ${index % 2 === 0 ? 'bg-transparent' : 'bg-gray-50/30'}`}>
                         <td className="p-4 font-semibold text-gray-700 text-sm">{specKey}</td>
@@ -156,13 +156,13 @@ export default function CompareDrawer({ cars, onClose, onRemove, userQuery }: Co
                           const valStr = car.detailed_specs?.[category]?.[specKey] || "N/A";
                           const valNum = extractNumber(valStr);
                           const isBest = valNum !== null && bestValue !== null && valNum === bestValue && sortedCars.length > 1;
-                          
+
                           return (
                             <td key={car.id} className={`p-4 text-sm ${isBest ? 'text-green-600 font-bold' : 'text-gray-600 font-medium'}`}>
                               <div className="flex items-center gap-2">
                                 <span>{valStr}</span>
                                 {isBest && (
-                                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" className="text-green-500 flex-shrink-0"><polyline points="20 6 9 17 4 12"/></svg>
+                                  <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" className="text-green-500 flex-shrink-0"><polyline points="20 6 9 17 4 12" /></svg>
                                 )}
                               </div>
                             </td>

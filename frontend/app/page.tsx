@@ -15,7 +15,7 @@ export default function Home() {
   const [response, setResponse] = useState<ChatResponse | null>(null);
   const [defaultCars, setDefaultCars] = useState<Car[]>([]);
   const [allCars, setAllCars] = useState<Car[]>([]);
-  
+
   // Local state for manual filter overrides
   const [manualFilters, setManualFilters] = useState<FilterParams | null>(null);
 
@@ -25,7 +25,7 @@ export default function Home() {
 
   // Fetch random suggestions and all cars on mount
   useEffect(() => {
-    fetch("http://localhost:8000/api/cars")
+    fetch("https://car-dekho-assessment-ten.vercel.app/api/cars")
       .then(res => res.json())
       .then((data: Car[]) => {
         setAllCars(data);
@@ -86,7 +86,7 @@ export default function Home() {
   // Apply manual filters locally on top of the matched_cars OR defaultCars
   let sourceCars = response ? (response.matched_cars || []) : defaultCars;
   let displayedCars = sourceCars;
-  
+
   if (manualFilters) {
     displayedCars = displayedCars.filter(car => {
       const checkArrayFilter = (filterVal: string | string[] | undefined, carVal: string) => {
@@ -127,7 +127,7 @@ export default function Home() {
       <div className="w-full max-w-3xl mb-12 relative z-10">
         <form onSubmit={handleSearch} className="flex gap-3 bg-white p-3 rounded-[2rem] shadow-[0_8px_30px_rgba(0,0,0,0.06)] border border-gray-100 transition-shadow hover:shadow-[0_8px_40px_rgba(0,0,0,0.08)]">
           <div className="pl-6 flex items-center text-gray-400">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" /></svg>
           </div>
           <input
             type="text"
@@ -168,21 +168,21 @@ export default function Home() {
       {/* Results Section */}
       <div className="w-full max-w-7xl mt-8 pb-32">
         {response && (
-          <AIResponseBubble 
-            reply={response.reply} 
+          <AIResponseBubble
+            reply={response.reply}
           />
         )}
-        
+
         {(!response && !manualFilters && !initialLoading && defaultCars.length > 0) && (
           <h2 className="text-2xl font-bold text-gray-800 mb-6 px-4 border-l-4 border-primary ml-2 lg:ml-0">Top Recommended Cars</h2>
         )}
-        
+
         <div className="flex flex-col lg:flex-row gap-8 items-start">
-          <FilterSidebar 
-            filters={effectiveFilters} 
-            onFilterChange={setManualFilters} 
+          <FilterSidebar
+            filters={effectiveFilters}
+            onFilterChange={setManualFilters}
           />
-          
+
           <div className="flex-1 w-full min-w-0">
             {initialLoading ? (
               <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
@@ -199,8 +199,8 @@ export default function Home() {
                     </h2>
                   </div>
                 )}
-                <CarGrid 
-                  cars={displayedCars} 
+                <CarGrid
+                  cars={displayedCars}
                   onCompareToggle={handleCompareToggle}
                   compareList={compareList}
                 />
@@ -213,11 +213,11 @@ export default function Home() {
       {/* Floating Compare Button */}
       {compareList.length > 0 && !showCompare && (
         <div className="fixed bottom-10 left-1/2 transform -translate-x-1/2 z-40 animate-bounce-short">
-          <button 
+          <button
             onClick={() => setShowCompare(true)}
             className="bg-gray-900 text-white px-8 py-4 rounded-full font-bold text-lg shadow-[0_8px_30px_rgba(0,0,0,0.3)] hover:bg-gray-800 hover:scale-105 transition-all flex items-center gap-3 border border-gray-700"
           >
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="text-primary"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="text-primary"><line x1="18" y1="6" x2="6" y2="18" /><line x1="6" y1="6" x2="18" y2="18" /></svg>
             Compare Cars ({compareList.length})
           </button>
         </div>
@@ -225,9 +225,9 @@ export default function Home() {
 
       {/* Compare Drawer */}
       {showCompare && (
-        <CompareDrawer 
-          cars={compareCarsData} 
-          onClose={() => setShowCompare(false)} 
+        <CompareDrawer
+          cars={compareCarsData}
+          onClose={() => setShowCompare(false)}
           onRemove={handleCompareRemove}
           userQuery={query}
         />
