@@ -47,6 +47,35 @@ npm run dev
 - **AI/LLM**: Groq API (`llama-3.3-70b-versatile`) for ultra-fast inference and reliable JSON extraction
 - **Data**: Flat-file JSON database for lightweight, rapid prototyping
 
+## 📂 Project Structure
+
+```text
+.
+├── backend/
+│   ├── main.py        # FastAPI application entry point
+│   ├── routers/       # API route definitions (chat, cars)
+│   ├── services/      # Business logic (Groq AI integration, filtering)
+│   └── data/          # JSON data files (cars.json)
+├── frontend/
+│   ├── app/           # Next.js 14 App Router (pages, layout)
+│   ├── components/    # Reusable React components
+│   └── public/        # Static assets
+└── docker-compose.yml # Docker configuration for full-stack deployment
+```
+
+## 🔑 Environment Variables
+
+To run the backend, you need to set up the following environment variable in the `backend/` directory (e.g. in a `.env` file):
+
+- `GROQ_API_KEY`: Your API key for Groq (Llama 3 inference). Get it for free at [groq.com](https://groq.com/).
+
+## 📡 Key API Endpoints
+
+- `POST /api/chat`: Takes a user's natural language query, extracts filters via LLM, and returns matched cars.
+- `POST /api/compare`: Takes a list of car IDs and a user query, generating an AI-driven comparison summary.
+- `GET /api/cars`: Retrieves a list of cars based on structured filter parameters.
+- `GET /api/cars/{car_id}`: Retrieves details for a specific car.
+
 ## 🗺️ Roadmap
 
 - **Follow-up Chat**: Enable iterative refinement of filters by allowing users to reply to the AI.
