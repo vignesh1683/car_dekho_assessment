@@ -1,6 +1,6 @@
-# CarDekho AI Car Advisor
+# AutoMatch AI Car Advisor
 
-An AI-native car recommendation platform built for the CarDekho take-home assignment. It takes natural language queries like "I need a family SUV under 15 lakhs with good safety" and returns a curated shortlist.
+An AI-native car recommendation platform built as a private personal project. It takes natural language queries like "I need a family SUV under 15 lakhs with good safety" and returns a curated shortlist.
 
 ## 🚀 Quick Start (Docker)
 
@@ -33,23 +33,22 @@ npm install
 npm run dev
 ```
 
-## 📝 Assignment Deliverables
+## 🌟 Features
 
-### What did you build and why? What did you deliberately cut?
-I built a conversational car discovery tool. Buyers don't know the exact filters they need (e.g. "ground clearance > 200mm"), they just know they want "a safe SUV for bad roads". 
-- **Built**: AI intent extraction using Groq (Llama 3), structured filtering, and a clean, responsive UI with a dark-mode glassmorphism aesthetic. A flat-file `cars.json` acts as the DB.
-- **Cut**: User authentication, real-time price APIs, deep car comparison drawers, and complex state management, as they don't directly prove the core "AI filtering" thesis and would bloat the 2-3 hr time limit.
+- **AI Intent Extraction**: Uses Groq (Llama 3) to convert natural language queries into structured search filters.
+- **Conversational Discovery**: Enables users to search for cars using intuitive phrases (e.g., "a safe SUV for bad roads") without needing to specify technical parameters.
+- **Modern UI/UX**: Built with a clean, responsive dark-mode glassmorphism aesthetic for an engaging user experience.
+- **High-Performance Backend**: Asynchronous API powered by FastAPI for rapid AI inference and filtering.
 
-### What's your tech stack and why did you pick it?
-- **Frontend**: Next.js 14 + Tailwind CSS. Fast to build, server-components ready, and Tailwind is perfect for rapid prototyping beautiful UIs.
-- **Backend**: FastAPI (Python). It is asynchronous, highly performant, auto-generates Swagger docs, and Python is the best ecosystem for AI/LLM SDKs.
-- **AI**: Groq (`llama-3.3-70b-versatile`). Picked for its completely free tier, incredibly fast inference speed, and native JSON-mode support for reliable filter extraction.
+## 🛠️ Tech Stack
 
-### What did you delegate to AI tools vs. do manually? 
-- **Delegated**: Boilerplate scaffolding, Pydantic schema generation, dummy data creation for `cars.json`, and Tailwind layout styling.
-- **Manual**: Designing the system architecture, tuning the Groq system prompt for reliable JSON extraction, and deciding on the product scope cuts. AI tools struggled slightly with context window limits when building the entire project at once, so I had to break it down.
+- **Frontend**: Next.js 14, Tailwind CSS, React
+- **Backend**: FastAPI (Python), Uvicorn
+- **AI/LLM**: Groq API (`llama-3.3-70b-versatile`) for ultra-fast inference and reliable JSON extraction
+- **Data**: Flat-file JSON database for lightweight, rapid prototyping
 
-### If you had another 4 hours, what would you add?
-1. **Follow-up Chat**: Allow the user to reply to the AI ("Actually, make it an automatic") to iteratively refine the filters.
-2. **Real Postgres DB**: Move away from `cars.json` to Prisma + Postgres with pgvector for semantic search on car descriptions, rather than just hard-filtering on extracted JSON.
-3. **User Auth & Saved Shortlists**: Integrate NextAuth to allow users to create accounts, save their favorite car recommendations, and view their past search history.
+## 🗺️ Roadmap
+
+- **Follow-up Chat**: Enable iterative refinement of filters by allowing users to reply to the AI.
+- **Database Migration**: Transition from a static JSON file to PostgreSQL with pgvector for semantic search on car descriptions.
+- **User Accounts**: Integrate authentication for saved shortlists and search history.

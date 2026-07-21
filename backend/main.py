@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routers import cars, chat
 
-app = FastAPI(title="CarDekho AI Advisor API", version="1.0.0")
+app = FastAPI(title="AutoMatch AI Advisor API", version="1.0.0")
 
 # Configure CORS for Next.js frontend
 app.add_middleware(
@@ -19,7 +19,7 @@ app.include_router(chat.router)
 
 @app.get("/")
 def root():
-    return {"message": "Welcome to the CarDekho AI Advisor API"}
+    return {"message": "Welcome to the AutoMatch AI Advisor API"}
 
 if __name__ == "__main__":
     import uvicorn
